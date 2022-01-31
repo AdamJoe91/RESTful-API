@@ -1,0 +1,3 @@
+-Create Champion Database
+-Change Videos to champions
+-Possibly create UI
